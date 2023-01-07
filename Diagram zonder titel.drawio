@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T18:54:27.956Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="PXImhKvyS8Xc5VOQ4li1" version="20.8.3" type="github"><diagram id="Y4Zai33T_N94drbJI-Wf" name="Pagina-1">3VhLc5swEP4tPXBMB/GwnWseTdtJpgcfkp46CmxACUhUiGDy6yuBeFnE484U08nBtna1euy33y6LLfcy3d1wnMV3LITEcuxwZ7lXluMgz/Xkj9JUjWZjrxtFxEmojXrFlryBVtpaW5AQ8pGhYCwRJBsrA0YpBGKkw5yzcmz2xJLxqRmOwFBsA5yY2nsSilh74ax7/VcgUdyejFbnzUyKW2PtSR7jkJUDlXttuZecMdGM0t0lJAq8Fpdm3Zd3ZruLcaDimAVvv4qt753dvD19tyvKf/+4u30+07u84qTQDt9DErAUapzlV4xplGKqIoFT+KRdEVWLD2cFDUEdYVvuRRkTAdsMB2q2lIyQulikiZSQHOrDgAvYvesF6rCRpAJ5FcEraaIXuMpeLdF8atEt++CgjeZcPAjMWtthzYeo27mHTA40an+DIDIwgVBSSIuMi5hFjOLkutdejFHrbW4ZyzRWzyBEpfMBFzIWIyRhR8TDYPxTbfXZ19LVTu9cC5UWmnuqyx3GXvrCCh7AAad1DATmEYgDdt50LDkkWJDX8T3+eWQcg9s3BeS5Okp+Eokv8AN8Rifisz3iM3KnCH1uEno1G6FtA5QTEron8c8hhycJLSHm1cNQGKSBEvtltTRDIrhHJoKzZCIg18iEJUK8AOxoUdxN2L89qVvHMKg/NqG9juTCclaJdOniUc6tIjWSrY0gVG5h1KqYpY9FfpI6tR6XKWeiTDmebZYphGarU6uPxmrvWFb7S7LaM2AnU6xWz1kqe9spguNUEZQ+5lkN4D7hU/wC3ZKQ45LQSI5Yf0zXlS6YEb67lxITrWiXJqOUcGZLifOPlhLo2E4TbRZ9wpq9ZsYJFWZeYBp2yoK+UFbS4XRJJHXUTAg8DxgHM1v24jk/0dEe0T000aI6E0SfrUV1PlxD05T0YxrJZTtJ3wBeF2tGR3W5HjVlO2WvZutygvK88f8z1jYlynxy1rUgal9N632GRSNvZNpalsR87p2+CPj+0nC2OT+AE5IcancbpBKmuo2FX/D3eTgncFLs/0+s5wb/yrrXfwA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-07T18:54:51.882Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="H8K43KeIDj0C1n6DQy46" version="20.8.3" type="github">
+  <diagram id="Y4Zai33T_N94drbJI-Wf" name="Pagina-1">
+    <mxGraphModel dx="1434" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z_uS54-GzfJ0ynrqOMLj-1" value="Welcome to hangman game!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="322" y="20" width="184" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uS54-GzfJ0ynrqOMLj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="z_uS54-GzfJ0ynrqOMLj-2" target="z_uS54-GzfJ0ynrqOMLj-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uS54-GzfJ0ynrqOMLj-2" value="Guess a letter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="130" width="189" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uS54-GzfJ0ynrqOMLj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="z_uS54-GzfJ0ynrqOMLj-3" target="z_uS54-GzfJ0ynrqOMLj-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uS54-GzfJ0ynrqOMLj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z_uS54-GzfJ0ynrqOMLj-3" target="z_uS54-GzfJ0ynrqOMLj-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uS54-GzfJ0ynrqOMLj-3" value="If the letter in the list&lt;br&gt;continue" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="230" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uS54-GzfJ0ynrqOMLj-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z_uS54-GzfJ0ynrqOMLj-4" target="z_uS54-GzfJ0ynrqOMLj-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uS54-GzfJ0ynrqOMLj-4" value="if the letter is not in the list&amp;nbsp;&lt;br&gt;make the drawing of the hangman" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="220" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uS54-GzfJ0ynrqOMLj-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z_uS54-GzfJ0ynrqOMLj-12" target="z_uS54-GzfJ0ynrqOMLj-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uS54-GzfJ0ynrqOMLj-12" value="print the letter and the unknown letter with underscore&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uS54-GzfJ0ynrqOMLj-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z_uS54-GzfJ0ynrqOMLj-15" target="z_uS54-GzfJ0ynrqOMLj-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uS54-GzfJ0ynrqOMLj-15" value="make one hangman hanging move" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="585" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uS54-GzfJ0ynrqOMLj-18" value="if he guess all the letters then he win" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z_uS54-GzfJ0ynrqOMLj-22" value="else; he lost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="585" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
